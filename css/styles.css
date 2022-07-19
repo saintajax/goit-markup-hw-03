@@ -245,6 +245,10 @@ body {
   border-radius: 0px 0px 4px 4px;
 }
 
+.team-photo {
+  margin-bottom: 30px;
+}
+
 .team-list .title {
   color: var(--title-text-color);
   font-weight: 500;
