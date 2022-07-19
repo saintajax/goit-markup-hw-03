@@ -314,12 +314,18 @@ body {
   font-style: normal;
 }
 
+.footer-adr {
+  color: #ffffff;
+}
+
 .footer-contacts {
   color: rgba(255, 255, 255, 0.6);
 }
 
 .footer-contacts:hover,
-.footer-contacts:focus {
+.footer-contacts:focus,
+.footer-adr:hover,
+.footer-adr:focus {
   color: var(--alternative-color);
 }
 
